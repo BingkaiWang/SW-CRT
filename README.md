@@ -11,7 +11,7 @@ List of Supporting Files: These supporting files are sourced in the main files t
 3. contGEE_BCV2.R = function to calculate the bias-corrected sandwich variances for GEE analyses with a simple exchangeable correlation;
 4. contGEE_BCV2_ED.R = function to calculate the bias-corrected sandwich variances for GEE analyses with an exponential decay correlation.
 
-II. List of Main Files: These main files are used to reproduce the results in the submitted manuscript and supporting information, for continuous outcomes.
+List of Main Files: These main files are used to reproduce the results in the submitted manuscript and supporting information, for continuous outcomes.
 5. simuSWD_A1.R = reproduce results for Simulation Scenario A1 with a simple exchangeable correlation or a nested exchangeable correlation;
 6. simuSWD_A1ed.R = reproduce results for Simulation Scenario A1 with an exponential decay correlation;
 7. simuSWD_A2.R = reproduce results for Simulation Scenario A2 with a simple exchangeable correlation or a nested exchangeable correlation;
@@ -33,7 +33,7 @@ List of Supporting Files: These supporting files are sourced in the main files t
 7. sim_saturated_2x.R = function to analyze data for Simulation Scenario C2 with a simple exchangeable correlation or a nested exchangeable correlation, with covariate adjustment;
 8. sim_saturated_2_ed.R = function to analyze data for Simulation Scenario C2 with an exponential decay correlation.
 
-II. List of Main Files: These main files are used to reproduce the results in the submitted manuscript and supporting information, for binary outcomes.
+List of Main Files: These main files are used to reproduce the results in the submitted manuscript and supporting information, for binary outcomes.
 9. simuSWD_C1.R = reproduce results for Simulation Scenario C1 with a simple exchangeable correlation or a nested exchangeable correlation, without covariate adjustment;
 10. simuSWD_C1x.R = reproduce results for Simulation Scenario C1 with a simple exchangeable correlation or a nested exchangeable correlation, with covariate adjustment;
 11. simuSWD_C1_ed.R = reproduce results for Simulation Scenario C1 with an exponential decay correlation;
